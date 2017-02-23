@@ -2,10 +2,11 @@
 SX4U or Script eXtract for Unity decompiles a game made by the Unity 3D game engine and gives you the source code by which the game was made in.
 
 Unity supports
-
-C#
-UnityScript (Javascript)
-Boo
+<ul>
+<li>C#</li>
+<li>UnityScript (Javascript)</li>
+<li>Boo</li>
+</ul>
 When compiling the game, Unity converts all the scripts to C# code. This means all the UnityScript and Boo scripts are converted to C# code. So SX4U gives you the C# code of the UnityScripts and Boo scripts.
 
 To select all text: Ctrl + A
