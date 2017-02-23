@@ -19,4 +19,4 @@ Local variables are kept at the bottom of their respective functions for easy an
 
  
 
-WE DO NOT TAKE RESPONSIBILTY FOR THE MISUSE OF THIS SOFTWARE!!!
+I DO NOT TAKE RESPONSIBILTY FOR THE MISUSE OF THIS SOFTWARE!!!
