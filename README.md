@@ -17,6 +17,6 @@ To hide search box: Esc
 
 Local variables are kept at the bottom of their respective functions for easy analyzing so if you try to directly copy and compile the extracted code make sure to remove those variables.
 
- 
+ <img src="sx4u.png" />
 
 I DO NOT TAKE RESPONSIBILTY FOR THE MISUSE OF THIS SOFTWARE!!!
